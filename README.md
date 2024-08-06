@@ -56,3 +56,4 @@ The analysis was visualized using Tableau, presenting clear and insightful graph
 Conclusion
 
 The project provides a detailed analysis of FDI trends in India, identifying key sectors and investment patterns. The positive overall trend and favourable forecasts indicate a strong investment climate, while sector-specific growth variability calls for careful strategic planning. The visual reports created using Tableau effectively communicate these insights, aiding informed decision-making for future investments.
+

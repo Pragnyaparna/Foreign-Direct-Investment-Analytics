@@ -5,7 +5,6 @@ Overview
 This project analyzes Foreign Direct Investment (FDI) in India from 2000-01 to 2016-17 using a comprehensive dataset. The objective is to understand sector-wise and year-wise investment patterns, identify key trends, and provide actionable insights for investors and policymakers.
 
 Dataset Information
-
 The dataset includes:
 
 •	Sector-wise FDI data

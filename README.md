@@ -1,10 +1,10 @@
 # Foreign-Direct-Investment-Analytics
 Analysis of Foreign Direct Investment in India (2000-01 to 2016-17)
-Overview
+# Overview
 
 This project analyzes Foreign Direct Investment (FDI) in India from 2000-01 to 2016-17 using a comprehensive dataset. The objective is to understand sector-wise and year-wise investment patterns, identify key trends, and provide actionable insights for investors and policymakers.
 
-Dataset Information
+# Dataset Information
 
 The dataset includes:
 
@@ -12,7 +12,7 @@ The dataset includes:
 •	Year-wise FDI data
 •	Coverage period: 2000-01 to 2016-17
 
-Key Findings
+# Key Findings
 
 1.	Top Sectors with Highest FDI:
 
@@ -43,7 +43,7 @@ o	Some sectors showed stable growth, while others experienced volatility.
 o	Highlights opportunities and risks, emphasizing the need for strategic investment decisions.
 
 
-Visualization
+# Visualization
 
 The analysis was visualized using Tableau, presenting clear and insightful graphical representations of:
 
@@ -53,7 +53,7 @@ The analysis was visualized using Tableau, presenting clear and insightful graph
 •	Growth variability across sectors
 
 
-Conclusion
+# Conclusion
 
 The project provides a detailed analysis of FDI trends in India, identifying key sectors and investment patterns. The positive overall trend and favourable forecasts indicate a strong investment climate, while sector-specific growth variability calls for careful strategic planning. The visual reports created using Tableau effectively communicate these insights, aiding informed decision-making for future investments.
 
